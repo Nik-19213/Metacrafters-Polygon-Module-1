@@ -1,6 +1,6 @@
 # Polygon Mapping 🌍 and Bridging 🎢🔗
 
-in this project, we wil deploy an NFT collection on the Ethereum blockchain - goerli testnet, Map the collection to Polygon Mumbai network, and Transfer assets over via the Polygon Bridge using FXportal Bridging.
+In this project, we wil deploy an NFT collection on the Ethereum blockchain - goerli testnet, Map the collection to Polygon Mumbai network, and Transfer assets over via the Polygon Bridge using FXportal Bridging.
 
 ## Contract Info 📑
 
