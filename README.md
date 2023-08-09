@@ -54,8 +54,7 @@ Go to https://mapper.polygon.technology/map and by using deployed contract addre
 
 ### Approve and Deposit NFTs 
 
-Run the following commands to approve and deposit the minted `PANDAVA` NFTs from Ethereum `Goerli Testnet` using the FxPortal Bridge:
-
+Run the following commands to transfer the minted `PANDAVA` NFTs from Ethereum `Goerli Testnet` to Polygon Mumbai using the FxPortal Bridge.
 ```shell
 npx hardhat run scripts/approveDeposit.js --network goerli
 ```
