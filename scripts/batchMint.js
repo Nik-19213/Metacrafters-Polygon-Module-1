@@ -11,7 +11,7 @@ async function main() {
 
   const signer = new ethers.Wallet(privateKey, provider);
 
-  const contractAddress = "0xA454A43147f0B1bCb69f0DF939eF76CC2599b210";  //Update the deployement address here
+  const contractAddress = "0xd5F7924231b72E776C680408C8B3B0EE0C96DD89";  //Update the deployement address here
 
   const Mahabharata = await ethers.getContractFactory("Mahabharata", signer);
   const contract = await Mahabharata.attach(contractAddress);
