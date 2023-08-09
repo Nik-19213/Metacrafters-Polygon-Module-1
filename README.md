@@ -52,7 +52,7 @@ The script will mint the 5 number of `PANDAVA` NFTs and assign them to your addr
 
 Go to https://mapper.polygon.technology/map and by using deployed contract address Map it to the Polygon Mumbai Network, copy the address provided by the site after maaping.
 
-### Approve and Deposit NFTs to Polygon Mumbai
+### Approve and Deposit NFTs 
 
 Run the following commands to approve and deposit the minted `PANDAVA` NFTs from Ethereum `Goerli Testnet` using the FxPortal Bridge:
 
